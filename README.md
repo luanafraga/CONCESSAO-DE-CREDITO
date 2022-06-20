@@ -45,7 +45,7 @@ A base de dados possui informações sobre:
 **Conclusões**
 
 
-Após o pré-processamento dos dados, foi criado um modelo de Regressão Logística com a biblioteca Scikit Learn. Este modelo foi selecionado para o desenvolvimento do projeto porque pode ser replicado com facilidade e também conseguimos entender bem como as variáveis do problema estão afetando os resultados. Além de que, não exige grande poder computacional e isso a torna atrativa já que podemos ter grandes bases de dados de clientes. O modelo foi treinado e avaliado utilizando métricas de avaliação matemáticas e gráficas.
+Após o pré-processamento dos dados, foi criado um modelo de **Regressão Logística** com a biblioteca Scikit Learn. Este modelo foi selecionado para o desenvolvimento do projeto porque pode ser replicado com facilidade e também conseguimos entender bem como as variáveis do problema estão afetando os resultados. Além de que, não exige grande poder computacional e isso a torna atrativa já que podemos ter grandes bases de dados de clientes. O modelo foi treinado e avaliado utilizando métricas de avaliação matemáticas e gráficas.
 
 Por fim, Conseguimos concluir após nosso estudo que o banco precisa ficar atento a alguns padrões da maioria dos clientes com **crédito negado**:
     
